@@ -8,3 +8,14 @@ if (roll === 1) {
 }
 return "Sunny"
 }
+
+// class Weather {
+//
+//   set() {
+//     let roll = Math.floor((Math.random()*6)+1)
+//     if (roll === 1) {
+//       return "Stormy"
+//     }
+//     return "Sunny"
+//     }
+//   }
